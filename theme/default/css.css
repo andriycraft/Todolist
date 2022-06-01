@@ -17,7 +17,6 @@ body {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    
 }
 
 .todotype {
@@ -32,6 +31,6 @@ body {
     padding: 5px;
 }
 
-.todo *{
+.todo * {
     margin-left: 10px;
 }
